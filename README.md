@@ -1,0 +1,2 @@
+# ChatServer
+整合netty与springboot的聊天服务器，借助spring强的IOC及生态环境，便于后期拓展
